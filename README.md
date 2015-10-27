@@ -1,0 +1,2 @@
+# mir
+sistema .mir
